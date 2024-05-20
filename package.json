@@ -1,0 +1,22 @@
+{
+  "name": "assignment-no-3",
+  "version": "1.0.0",
+  "description": "Assignment given by @panaverse . I have completed Assignment to get First Hand experience on Typescript, Node.js and Inquirer.",
+  "main": "Task1.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
